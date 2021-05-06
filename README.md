@@ -3,6 +3,6 @@ Welcome to my profile.
 
 <p>
   <a href="https://github.com/sponsors/abrahamcalsin">
-    <img src="https://abrahamcalsin.vercel.app/Recursos/Social-media/fa-github.svg" width="20" alt="Sponsor abrahamcalsin on GitHub" title="Sponsor abrahamcalsin on GitHub">
+    <img src="https://abrahamcalsin.vercel.app/resources/social-media/fa-github.svg" width="20" alt="Sponsor abrahamcalsin on GitHub" title="Sponsor abrahamcalsin on GitHub">
   </a>
  </p>
