@@ -1,5 +1,5 @@
-### ¡Hey, Hello!
-Welcome to my profile. 👋
+### ¡Hey, Hello! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></a>
+Welcome to my profile.
 
 <!--
 **abrahamcalsin/abrahamcalsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
