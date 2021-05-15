@@ -2,7 +2,7 @@
 Welcome to my profile.
 
 <p>
-  <a href="https://twitter.com/abraham_calsin" style="margin-right: 50px;">
+  <a href="https://twitter.com/abraham_calsin">
     <img src="https://abrahamcalsin.vercel.app/resources/social-media/fa-twitter.svg" width="20" alt="Follow me on Twitter" title="Follow me on Twitter">
   </a>
   <a href="https://github.com/sponsors/abrahamcalsin">
