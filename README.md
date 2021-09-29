@@ -4,7 +4,7 @@ Welcome to my profile.
 </p>
 
 <p>
-  <a href='https://www.abrahamcalsin.com' target='_nlank'><img src='https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22'></a>
+  <a href='https://www.abrahamcalsin.com' target='_blank'><img src='https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22'></a>
   <a href='https://www.linkedin.com/in/abrahamcalsin' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
   <a href='https://twitter.com/abraham_calsin' target='_blank'><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abraham_calsin?color=%231c9cea&label=FOLLOW%20ME&logo=twitter&logoColor=%23fff&style=for-the-badge"></a>
 </p>
