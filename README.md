@@ -4,7 +4,7 @@ I am a Frontend Developer, passionate about programming, I create open source pr
 
 I'm a self-taught person, creative and eager to learn new things.
 
-Some of my favorite technologies I work with are [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [TailwindCss](https://tailwindcss.com/).
+Some of my favorite technologies I work with are [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/).
 
 ---
 
