@@ -14,9 +14,6 @@ Some of my favorite technologies I work with are [React.js](https://reactjs.org/
   <a href='https://www.abrahamcalsin.com' target='_blank'><img src='https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22'></a>
   <a href='https://www.linkedin.com/in/abrahamcalsin' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
   <a href='https://twitter.com/abraham_calsin' target='_blank'><img alt="Twitter Follow" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href='https://instagram.com/abrahamcalsin' target='_blank'>
-  <img alt="Instagram Follow" src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 - **Or you can also support my work at:**
